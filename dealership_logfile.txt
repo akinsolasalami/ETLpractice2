@@ -1,0 +1,14 @@
+10:53:38-Dec-22-2021,ETL Process Begins
+10:53:38-Dec-22-2021,Extraction Begins
+10:54:32-Dec-22-2021,ETL Process Begins
+10:54:32-Dec-22-2021,Extraction Begins
+10:56:25-Dec-22-2021,ETL Process Begins
+10:56:25-Dec-22-2021,Extraction Begins
+10:57:59-Dec-22-2021,ETL Process Begins
+10:57:59-Dec-22-2021,Extraction Begins
+10:57:59-Dec-22-2021,Extraction Complete
+10:57:59-Dec-22-2021,Transform Begins
+10:57:59-Dec-22-2021,Transformation Complete.
+10:57:59-Dec-22-2021,Loading Begins
+10:57:59-Dec-22-2021,Load Phase Complete
+10:57:59-Dec-22-2021,ETL Complete
